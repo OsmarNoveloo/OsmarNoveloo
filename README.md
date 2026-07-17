@@ -18,7 +18,7 @@
 - 📫 Cómo contactarme: **osmar_1236@hotmail.com**
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=radical&border=false" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
 ---
@@ -40,14 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmarNoveloo&theme=radical&hide_border=true&background=0d1117" />
-</p>
-
----
-
-### 🏆 Trofeos
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OsmarNoveloo&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 </p>
 
 ---
