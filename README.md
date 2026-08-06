@@ -31,14 +31,6 @@
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OsmarNoveloo&theme=radical&hide_border=true&background=0d1117" />
-</p>
-
----
-
 ### 📈 Actividad
 
 <p align="center">
@@ -52,8 +44,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/OsmarNoveloo/OsmarNoveloo/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
-> Nota: la animación de la serpiente requiere configurar un GitHub Action. Te dejo el paso a paso más abajo.
 
 ---
 
